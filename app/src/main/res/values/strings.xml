@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">
+        PinjemYa,
+        kamu kan baru make
+        tapi katanya udah lama
+        jadi pinjem ya
+    </string>
+    <string name="btn">
+        Submit
+    </string>
+</resources>
